@@ -36,4 +36,4 @@ To delete a remote tag in Git, you can use the following command:
 ```bash
 git push origin --delete tag_name
 ```
-![myimage](https://foundations.projectpythia.org/_images/GitHub-logo.png)
+![myimage](https://allvectorlogo.com/img/2021/12/github-logo-vector.png)
